@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: #446942; */
+    background:linear-gradient(0deg, rgba(77, 183, 89, 0.3), rgba(2, 82, 75, 0.541)), url("../media/images/Sector_5_Church_from_FFVII_Remake.webp");
+    background-size:cover;
+    background-attachment: fixed;
+    
+    
+}
+
+@font-face {
+    font-family: rothenberg;
+    src: url("../media/fonts/Rothenburg Decorative.ttf");
+}
+
+@font-face {
+    font-family: stitch;
+    src: url("../media/fonts/StitchWarrior demo.ttf");
+}
+
+audio{
+    position: absolute;
+    padding: 0px 0px 0px 1250px;
+    margin-bottom: 10px;
+}
+
+.ff7header{
+    display: block;
+    overflow: hidden;
+    font-size: 40px;
+    padding: 10px 30px 10px 50px; 
+    margin-left: 30%; 
+    font-family: rothenberg;
+    color: #ff8284;
+    text-decoration: #b32949 underline;
+    
+   
+}
+
+.fanart{
+    position: absolute;
+    left: 45%;
+}
+
+.facts{
+    font-family: stitch;
+    padding: 10px 5px 10px 85px;
+    font-size: 35px;
+    color: #ff8284;
+   
+    
+    
+}
+
+.friends{
+    display: inline-block;
+    font-family: stitch;
+    padding: 10px 5px 5px 145px;
+    font-size: 35px;
+    color: #ff8284;
+    ;
+}
+
+.quote{
+    display: table;
+    font-family: stitch;
+    font-size: 30px;
+    color: azure;
+    padding: 15px 15px 15px 15px;
+    margin-left: 130px;
+    border: 3px #9bcec6 solid;
+}
+
+h2{
+    font-family: stitch;
+    font-size: 50px;
+    color: #ff8284;
+    text-decoration: #b32949 underline;
+    padding: 20px 10px 0px 0px;
+    margin: 10px 10px 10px 115px;
+}
+
+h3{
+    text-decoration: #b32949 underline;
+    font-size: 50px;
+    padding: 10px 10px 0px 0px;
+    margin: 10px 10px 10px 165px;
+}
+
+h4{
+    font-family: stitch;
+    font-size: 50px;
+    color: #ff8284;
+    text-decoration: #b32949 underline;
+    padding: 10px 10px 0px 0px;
+    margin: 10px 10px 10px 350px;
+}
+a{
+    display: block;
+}
+th{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #549b4d;
+}
+
+img{
+    width: 1000px;
+    border:solid 4px #9bcec6;
+}
+
+table, th, td {
+    border: 4px outset #9bcec6;
+}
+
+a{
+    color: #ffffff;
+    font-size: 40px;
+    margin-left: 900px;
+    margin-bottom: 20px;
+}
